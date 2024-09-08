@@ -1,0 +1,15 @@
+body {
+    background-color: #d1dbda;
+    text-align: center;
+}
+
+.highlight {
+    background-color: yellow; /* Escolha a cor de fundo desejada */
+    color: black; /* Cor do texto para garantir contraste */
+    padding: 0 5px; /* Adiciona um pouco de espaçamento ao redor do texto */
+    border-radius: 3px; /* Opcional: bordas arredondadas para um efeito mais suave */
+}
+
+h1, h2, h3, h4, h5, h6, h7{
+    font-size: 2em; /* O tamanho da fonte será 80 */
+  }
